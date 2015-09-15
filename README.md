@@ -1,5 +1,7 @@
 # exercise
 
+This exercise goes along with the job offer on: https://recruitingapp-2695.de.umantis.com/Vacancies/273/Description/1
+
 Next Generation Sequencing systems produce count data which can be used for differential testing, with longitudinal studies involving paired samples testing.
 
 Beta-binomial tests have therefore emerged as the methods of choice for the analysis of NGS and also proteomics data involving count data.
