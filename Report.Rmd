@@ -2,12 +2,169 @@
 title: "Beta-binomial test for NGS data"
 author: "Yassine Souilmi"
 date: "December 10, 2015"
-output: html_document
+output:
+#html_document:
+#  toc: true
+#  theme: united
+#pdf_document:
+#  toc: true
+#  highlight: zenburn
 ---
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This is a report in response to the exercise designed by Dr. Boucas, and shared by Dr. Kornfeld ([*GitHub*](https://github.com/mpg-age-bioinformatics/exercise)).
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+For a fully automated run the scd.R script could be used:
+
+```{bash, eval=FALSE}
+./scd.R [input data] [output data]
+```
+
+The script will run automatically through the analysis, and return:
+
+- A graphical preview of the data
+
+- A graphical preview of the data after cleaning
+
+- An analysis output tsv file
+
+- An analysis summary tsv file with only the information of the individuals for which the levels of the malignant isoform (m) significantly changed from August to December independently of the changes in the gene(t).
+
+*****
+## Introduction
+The input dataset is a tab-delimited file, where we have two groups of samples from the same individuals, August sampling and December's. For each group sampling was performed 4 times (replicates):
+`August_1,August_2,August_3,August_4 ; December_1,December_2,December_3,December_4`.
+
+Total counts(t) for a gene as well as counts for a malignant isoform (m) of the same gene are presented in the file. And Missing values in the raw data correspond to samples that got lost by the logistics partner.
+
+#### Goal:
+The goal of this exercise is to to identify individuals for which the levels of the malignant isoform (m) significantly changed from August to December independently of the changes in the gene(t).
+
+*****
+## Solution
+### 1. Load the data:
+The data contained a non-numeric value "inf" that had to be "removed" at the import.
+
+```{r}
+raw_data <- read.delim("~/bin/mpg_ex/mpg/raw_data.tsv", 
+                       header = T, 
+                       sep = "\t", 
+                       dec = ".", 
+                       fill = T, 
+                       na.strings = c("inf"))
+```
+
+### 2. Explore and clean the data:
+For better data manipulation, we will use the excellent "big-data" library dplyr.
+
+```{r, massage=FALSE, echo=F}
+library(dplyr)
+```
+Now that dplyr is loaded we can quickly sift through the data and explore it. Fist, we have to make sure that the imported data was imported in a dplyr compatible dataframe.
+
+```{r}
+counts <- raw_data %>% as_data_frame()
+```
+
+# Selecting the malignant isoform data
+malignant <- counts[, 1:8]
+
+
+#########################
+# Loading the libraries #
+#########################
+
+# Load needed libraries:
+# dplyr: for better handle on data manipulation
+# edgeR: for binomial tests
+# DESeq: for building the object that holds the dataset \
+# to be analysed by edgeR and the subsequent calculations \
+# performed on the dataset
+library(dplyr)
+source("https://bioconductor.org/biocLite.R") # make sure bioconductor is available
+biocLite() # install core packages
+biocLite("DESeq", "edgeR") # install libraries
+library("DESeq", "edgeR") # load libraries
+
+
+#####################
+# Data exploration  #
+#####################
+
+# Check the content of the counts dataframe
+malignant %>% class()
+malignant %>% sapply(class) # get the class of each column
+malignant %>% head()
+
+# Get statistical summary "row-by-row"
+summary(rowSums(malignant))
+
+# Visualize graphically the data
+png("data_viz_before.png", width = 2400, height = 500, units = "px")
+counts %>% boxplot(~August_1m) # this is a bug that we can take advantage of
+dev.off()
+
+#########################
+#     Data cleaning     #
+#########################
+## Since the read counts are non-negative integers (Anders, 2010) \
+## negative values are eleminated, and replaced with 'NA's
+counts[counts<=0] <- 0
+counts[is.na(counts)] <- 0
+
+# Visualize graphically the data
+png("data_viz_after.png", width = 2400, height = 500, units = "px")
+counts %>% boxplot(~August_1m) # this is a bug that we can take advantage of
+dev.off()
+
+####################
+#     Analysis     #
+####################
+# 1. Make a DGEList for edgeR:
+# 1.1. Define the groups
+malignant_counts_groups = c(rep("August_m",4),rep("December_m",4))
+
+# 1.2. Create the DGEList object
+malignant_DGEList = malignant %>%
+  DGEList(group=malignant_counts_groups)
+
+# 2. Run edgeR
+malignant_DGEList = malignant_DGEList %>%
+  calcNormFactors() %>%
+  estimateCommonDisp(verbose=T) %>%
+  estimateTagwiseDisp()
+
+malignant_tgw = malignant_DGEList %>% exactTest()
+# 3. Summarize the findings
+# Classify a series of related differential expression statistics \
+# as up, down or not significant
+dt = decideTestsDGE(malignant_tgw, p.value=0.01, adjust.method = "fdr")
+summary(dt)
+topTags(malignant_tgw, n=10)
+
+# Get the 'fdr' adjusting the pvalue \
+# using Benjamini & Hochberg (1995) ("BH" or its alias "fdr") method
+PValue_fdr <- p.adjust(method="fdr",p=malignant_tgw$table$PValue)
+
+# Create a new dataframe to help summarize the findings
+ind = c(paste("ind", 1:dim(malignant)[1], sep = '-'))
+results = data.frame(ind, malignant_tgw$table,
+                     "twd"=malignant_DGEList$tagwise.dispersion,
+                     "PValue_fdr"=PValue_fdr,
+                     "Decide_test"=dt,
+                     malignant)
+
+results_summary = results %>% filter(PValue_fdr<=0.01)
+
+increased = results_summary %>% filter(Decide_test==1)
+decreased = results_summary %>% filter(Decide_test==-1)
+
+print("The individuals individuals for which the levels of the malignant isoform (m) significantly increased from August to December are:")
+increased$ind
+
+print(" And the individuals individuals for which the levels of the malignant isoform (m) significantly decreased from August to December are:")
+decreased$ind
+
+
 
 ```{r}
 summary(cars)
