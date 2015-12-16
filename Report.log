@@ -1,0 +1,3852 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdfetex 2015.11.29)  16 DEC 2015 03:35
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input /Users/ys/bin/mpg_ex/mpg/Report.txt
+(/Users/ys/bin/mpg_ex/mpg/Report.txt
+/Users/ys/bin/mpg_ex/mpg/Report.txt:6: You can't use `macro parameter character
+ #' in horizontal mode.
+l.6 #
+     html_document:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:6: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.6 #html_
+          document:
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:7: You can't use `macro parameter character
+ #' in math mode.
+l.7 #
+       toc: true
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:8: You can't use `macro parameter character
+ #' in math mode.
+l.8 #
+       theme: united
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:9: You can't use `macro parameter character
+ #' in math mode.
+l.9 #
+     pdf_document:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:10: You can't use `macro parameter characte
+r #' in math mode.
+l.10 #
+        toc: true
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:11: You can't use `macro parameter characte
+r #' in math mode.
+l.11 #
+        highlight: zenburn
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:13: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.13 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (4.27452pt too wide) in paragraph at lines 1--13
+[]\tenrm --- ti-tle: "Count data test" au-thor: "Yas-sine Souilmi" date: "De-ce
+m-ber 10, 2015" out-put: html$[]\teni ocument \tenrm :|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm | (ligature ---)
+.\discretionary
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm t
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:14: You can't use `macro parameter characte
+r #' in vertical mode.
+l.14 #
+      # Differential expression count data analysis
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:14: You can't use `macro parameter characte
+r #' in vertical mode.
+l.14 ##
+        Differential expression count data analysis
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:15: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.15 #
+      #### Author: Yassine Souilmi
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:15: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.15 ##
+       ### Author: Yassine Souilmi
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:15: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.15 ###
+        ## Author: Yassine Souilmi
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:15: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.15 ####
+         # Author: Yassine Souilmi
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:15: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.15 #####
+           Author: Yassine Souilmi
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:16: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.16 #
+      #### Date: "December 16, 2015"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:16: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.16 ##
+       ### Date: "December 16, 2015"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:16: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.16 ###
+        ## Date: "December 16, 2015"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:16: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.16 ####
+         # Date: "December 16, 2015"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:16: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.16 #####
+           Date: "December 16, 2015"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:36: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.36 #
+      # Introduction
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:36: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.36 ##
+        Introduction
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:38: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.38 `August_
+             1,August_2,August_3,August_4 ; December_1,December_2,December_3...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:39: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.39 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:42: You can't use `macro parameter characte
+r #' in vertical mode.
+l.42 #
+      ### Goal:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:42: You can't use `macro parameter characte
+r #' in vertical mode.
+l.42 ##
+       ## Goal:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:42: You can't use `macro parameter characte
+r #' in vertical mode.
+l.42 ###
+        # Goal:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:42: You can't use `macro parameter characte
+r #' in vertical mode.
+l.42 ####
+          Goal:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:46: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.46 #
+      # Solution
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:46: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.46 ##
+        Solution
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:47: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.47 #
+      ## 1. Load the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:47: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.47 ##
+       # 1. Load the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:47: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.47 ###
+         1. Load the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:52: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.52 raw_
+         data <- read.delim("~/bin/mpg_ex/mpg/raw_data.tsv",
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:54: Please use \mathaccent for accents in m
+ath mode.
+<recently read> \accent 
+                        
+\t ... \next {\the \font }\the \textfont 1\accent 
+                                                  "7F\next #1}
+l.54                        sep = "\t"
+                                      ,
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:54: Missing { inserted.
+<to be read again> 
+                   \tenrm 
+\t ...the \font }\the \textfont 1\accent "7F\next 
+                                                  #1}
+l.54                        sep = "\t"
+                                      ,
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:59: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.59 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:59: Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+<to be read again> 
+                   \par 
+l.59 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (113.02995pt too wide) in paragraph at lines 51--59
+[]\tenrm ```r raw$[]\teni ata < \tensy ^^@\teni read:delim\tenrm (" \teni =bin=
+mpg[]x=mpg=raw[]ata:tsv\tenrm "\teni ; header \tenrm = \teni T; sep \tenrm = "[
+]$ |
+
+\hbox(9.31749+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:60: You can't use `macro parameter characte
+r #' in vertical mode.
+l.60 #
+      ## 2. Explore and clean the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:60: You can't use `macro parameter characte
+r #' in vertical mode.
+l.60 ##
+       # 2. Explore and clean the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:60: You can't use `macro parameter characte
+r #' in vertical mode.
+l.60 ###
+         2. Explore and clean the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:68: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.68 counts <- raw_
+                   data %>% as_data_frame()
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:71: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.71 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:73: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.73 #
+      # Source: local data frame [6 x 16]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:73: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.73 ##
+        Source: local data frame [6 x 16]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:74: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.74 #
+      #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:74: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.74 ##
+       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:75: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.75 #
+      #   August_1m August_2m August_3m August_4m December_1m December_2m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:75: You can't use `macro parameter characte
+r #' in horizontal mode.
+l.75 ##
+          August_1m August_2m August_3m August_4m December_1m December_2m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:75: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.75 ##   August_
+                 1m August_2m August_3m August_4m December_1m December_2m
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:76: You can't use `macro parameter characte
+r #' in math mode.
+l.76 #
+      # 1      8259      9281      7560      9134       12281       12099
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:76: You can't use `macro parameter characte
+r #' in math mode.
+l.76 ##
+        1      8259      9281      7560      9134       12281       12099
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:77: You can't use `macro parameter characte
+r #' in math mode.
+l.77 #
+      # 2      3523      2934      2065      3273        2747        2211
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:77: You can't use `macro parameter characte
+r #' in math mode.
+l.77 ##
+        2      3523      2934      2065      3273        2747        2211
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:78: You can't use `macro parameter characte
+r #' in math mode.
+l.78 #
+      # 3       757      1137       662       848        1332        1170
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:78: You can't use `macro parameter characte
+r #' in math mode.
+l.78 ##
+        3       757      1137       662       848        1332        1170
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:79: You can't use `macro parameter characte
+r #' in math mode.
+l.79 #
+      # 4       530       660       467       646          83         130
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:79: You can't use `macro parameter characte
+r #' in math mode.
+l.79 ##
+        4       530       660       467       646          83         130
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:80: You can't use `macro parameter characte
+r #' in math mode.
+l.80 #
+      # 5       454       550       428       646         832        1474
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:80: You can't use `macro parameter characte
+r #' in math mode.
+l.80 ##
+        5       454       550       428       646         832        1474
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:81: You can't use `macro parameter characte
+r #' in math mode.
+l.81 #
+      # 6       795       953       623       646        1498        1517
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:81: You can't use `macro parameter characte
+r #' in math mode.
+l.81 ##
+        6       795       953       623       646        1498        1517
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:82: You can't use `macro parameter characte
+r #' in math mode.
+l.82 #
+      # Variables not shown: December_3m (dbl), December_4m (dbl), August_1t
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:82: You can't use `macro parameter characte
+r #' in math mode.
+l.82 ##
+        Variables not shown: December_3m (dbl), December_4m (dbl), August_1t
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:83: You can't use `macro parameter characte
+r #' in math mode.
+l.83 #
+      #   (dbl), August_2t (dbl), August_3t (dbl), August_4t (dbl), December_1t
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:83: You can't use `macro parameter characte
+r #' in math mode.
+l.83 ##
+          (dbl), August_2t (dbl), August_3t (dbl), August_4t (dbl), December_1t
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:84: You can't use `macro parameter characte
+r #' in math mode.
+l.84 #
+      #   (dbl), December_2t (dbl), December_3t (dbl), December_4t (dbl)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:84: You can't use `macro parameter characte
+r #' in math mode.
+l.84 ##
+          (dbl), December_2t (dbl), December_3t (dbl), December_4t (dbl)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:87: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.87 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (760.60133pt too wide) in paragraph at lines 72--87
+[]\tenrm ```  Source: lo-cal data frame [6 x 16]   August$[]\teni mAugust[]mAug
+ust[]mAugust[]mDecember[]mDecember[]m\tenrm 18259928175609134122811209923523293
+4206532732747221137571137662848133211704530660467646831305454550428646832147467
+9595362364614981517\teni Variablesnotshown \tenrm :|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (698.65475pt too wide) in paragraph at lines 72--87
+\teni December[]m\tenrm (\teni dbl\tenrm )\teni ; December[]m\tenrm (\teni dbl\
+tenrm )\teni ; August[]t\tenrm (\teni dbl\tenrm )\teni ; August[]t\tenrm (\teni
+ dbl\tenrm )\teni ; August[]t\tenrm (\teni dbl\tenrm )\teni ; August[]t\tenrm (
+\teni dbl\tenrm )\teni ; December[]t\tenrm (\teni dbl\tenrm )\teni ; December[]
+t\tenrm (\teni dbl\tenrm )\teni ; December[]t\tenrm (\teni dbl\tenrm )\teni ; D
+ecember[]t\tenrm (\teni dbl\tenrm )\`\teni Sinceweareonlyinterestedincomparingm
+alignantisoform\tenrm (\teni m\tenrm )\teni wewillonlykeepthedatarelatedtoit \t
+enrm :$ |
+
+\hbox(7.5+2.5)x469.75499
+.\teni D
+.\kern0.27779
+.\teni e
+.\teni c
+.\teni e
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:88: You can't use `macro parameter characte
+r #' in vertical mode.
+l.88 #
+      ### 2.1. Selecting only useful data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:88: You can't use `macro parameter characte
+r #' in vertical mode.
+l.88 ##
+       ## 2.1. Selecting only useful data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:88: You can't use `macro parameter characte
+r #' in vertical mode.
+l.88 ###
+        # 2.1. Selecting only useful data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:88: You can't use `macro parameter characte
+r #' in vertical mode.
+l.88 ####
+          2.1. Selecting only useful data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:95: You can't use `macro parameter characte
+r #' in vertical mode.
+l.95 #
+      ### 2.2. Exploring the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:95: You can't use `macro parameter characte
+r #' in vertical mode.
+l.95 ##
+       ## 2.2. Exploring the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:95: You can't use `macro parameter characte
+r #' in vertical mode.
+l.95 ###
+        # 2.2. Exploring the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:95: You can't use `macro parameter characte
+r #' in vertical mode.
+l.95 ####
+          2.2. Exploring the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:105: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.105 #
+       # Source: local data frame [6 x 8]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:105: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.105 ##
+         Source: local data frame [6 x 8]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:106: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.106 #
+       #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:106: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.106 ##
+        
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:107: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.107 #
+       #   August_1m August_2m August_3m August_4m December_1m December_2m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:107: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.107 ##
+           August_1m August_2m August_3m August_4m December_1m December_2m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:107: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.107 ##   August_
+                  1m August_2m August_3m August_4m December_1m December_2m
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:108: You can't use `macro parameter charact
+er #' in math mode.
+l.108 #
+       # 1      8259      9281      7560      9134       12281       12099
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:108: You can't use `macro parameter charact
+er #' in math mode.
+l.108 ##
+         1      8259      9281      7560      9134       12281       12099
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:109: You can't use `macro parameter charact
+er #' in math mode.
+l.109 #
+       # 2      3523      2934      2065      3273        2747        2211
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:109: You can't use `macro parameter charact
+er #' in math mode.
+l.109 ##
+         2      3523      2934      2065      3273        2747        2211
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:110: You can't use `macro parameter charact
+er #' in math mode.
+l.110 #
+       # 3       757      1137       662       848        1332        1170
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:110: You can't use `macro parameter charact
+er #' in math mode.
+l.110 ##
+         3       757      1137       662       848        1332        1170
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:111: You can't use `macro parameter charact
+er #' in math mode.
+l.111 #
+       # 4       530       660       467       646          83         130
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:111: You can't use `macro parameter charact
+er #' in math mode.
+l.111 ##
+         4       530       660       467       646          83         130
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:112: You can't use `macro parameter charact
+er #' in math mode.
+l.112 #
+       # 5       454       550       428       646         832        1474
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:112: You can't use `macro parameter charact
+er #' in math mode.
+l.112 ##
+         5       454       550       428       646         832        1474
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:113: You can't use `macro parameter charact
+er #' in math mode.
+l.113 #
+       # 6       795       953       623       646        1498        1517
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:113: You can't use `macro parameter charact
+er #' in math mode.
+l.113 ##
+         6       795       953       623       646        1498        1517
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:114: You can't use `macro parameter charact
+er #' in math mode.
+l.114 #
+       # Variables not shown: December_3m (dbl), December_4m (dbl)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:114: You can't use `macro parameter charact
+er #' in math mode.
+l.114 ##
+         Variables not shown: December_3m (dbl), December_4m (dbl)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:116: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.116 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (755.60132pt too wide) in paragraph at lines 104--116
+[]\tenrm ```  Source: lo-cal data frame [6 x 8]   August$[]\teni mAugust[]mAugu
+st[]mAugust[]mDecember[]mDecember[]m\tenrm 182599281756091341228112099235232934
+2065327327472211375711376628481332117045306604676468313054545504286468321474679
+595362364614981517\teni Variablesnotshown \tenrm :|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:122: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.122 #
+       #   August_1m   August_2m   August_3m   August_4m December_1m Decembe...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:122: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.122 ##
+           August_1m   August_2m   August_3m   August_4m December_1m Decembe...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:122: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.122 ##   August_
+                  1m   August_2m   August_3m   August_4m December_1m Decembe...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:123: You can't use `macro parameter charact
+er #' in math mode.
+l.123 #
+       #   "numeric"   "numeric"   "numeric"   "numeric"   "numeric"   "nume...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:123: You can't use `macro parameter charact
+er #' in math mode.
+l.123 ##
+           "numeric"   "numeric"   "numeric"   "numeric"   "numeric"   "nume...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:124: You can't use `macro parameter charact
+er #' in math mode.
+l.124 #
+       # December_3m December_4m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:124: You can't use `macro parameter charact
+er #' in math mode.
+l.124 ##
+         December_3m December_4m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:125: You can't use `macro parameter charact
+er #' in math mode.
+l.125 #
+       #   "numeric"   "numeric"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:125: You can't use `macro parameter charact
+er #' in math mode.
+l.125 ##
+           "numeric"   "numeric"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:127: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.127 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (364.49849pt too wide) in paragraph at lines 121--127
+[]\tenrm ```  August$[]\teni mAugust[]mAugust[]mAugust[]mDecember[]mDecember[]m
+\tenrm "\teni numeric\tenrm ""\teni numeric\tenrm ""\teni numeric\tenrm ""\teni
+ numeric\tenrm ""\teni numeric\tenrm ""\teni numeric\tenrm "\teni December[]mDe
+cember[]m\tenrm "\teni numeric\tenrm ""\teni numeric\tenrm "\`$ |
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:129: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.129 summary(rowSums(malignant)) #
+                                    Get statistical summary "row-by-row"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:133: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.133 #
+       #    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:133: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.133 ##
+            Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:134: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.134 #
+       #     821    2390    3996    7647    7250  219700   19928
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:134: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.134 ##
+             821    2390    3996    7647    7250  219700   19928
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:139: You can't use `macro parameter charact
+er #' in vertical mode.
+l.139 #
+       ### 2.3. Visuale exploration of the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:139: You can't use `macro parameter charact
+er #' in vertical mode.
+l.139 ##
+        ## 2.3. Visuale exploration of the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:139: You can't use `macro parameter charact
+er #' in vertical mode.
+l.139 ###
+         # 2.3. Visuale exploration of the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:139: You can't use `macro parameter charact
+er #' in vertical mode.
+l.139 ####
+           2.3. Visuale exploration of the data:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:144: You can't use `macro parameter charact
+er #' in vertical mode.
+l.144 #
+       ## 3. Data cleaning and preparation:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:144: You can't use `macro parameter charact
+er #' in vertical mode.
+l.144 ##
+        # 3. Data cleaning and preparation:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:144: You can't use `macro parameter charact
+er #' in vertical mode.
+l.144 ###
+          3. Data cleaning and preparation:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:154: You can't use `macro parameter charact
+er #' in vertical mode.
+l.154 #
+       ## 4. Differencial count test:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:154: You can't use `macro parameter charact
+er #' in vertical mode.
+l.154 ##
+        # 4. Differencial count test:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:154: You can't use `macro parameter charact
+er #' in vertical mode.
+l.154 ###
+          4. Differencial count test:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+/Users/ys/bin/mpg_ex/mpg/Report.txt:163: You can't use `macro parameter charact
+er #' in vertical mode.
+l.163 #
+       ### 4.1. Loading the libraries:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:163: You can't use `macro parameter charact
+er #' in vertical mode.
+l.163 ##
+        ## 4.1. Loading the libraries:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:163: You can't use `macro parameter charact
+er #' in vertical mode.
+l.163 ###
+         # 4.1. Loading the libraries:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:163: You can't use `macro parameter charact
+er #' in vertical mode.
+l.163 ####
+           4.1. Loading the libraries:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:168: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.168 ...("https://bioconductor.org/biocLite.R") #
+                                                   make sure bioconductor is...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:169: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.169 biocLite() #
+                   install core packages
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:170: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.170 biocLite("DESeq", "edgeR") #
+                                   install libraries
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:171: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.171 library("DESeq", "edgeR") #
+                                  load libraries
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:174: You can't use `macro parameter charact
+er #' in vertical mode.
+l.174 #
+       ### 4.2. Make a DGEList for edgeR:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:174: You can't use `macro parameter charact
+er #' in vertical mode.
+l.174 ##
+        ## 4.2. Make a DGEList for edgeR:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:174: You can't use `macro parameter charact
+er #' in vertical mode.
+l.174 ###
+         # 4.2. Make a DGEList for edgeR:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:174: You can't use `macro parameter charact
+er #' in vertical mode.
+l.174 ####
+           4.2. Make a DGEList for edgeR:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:175: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.175 #
+       #### 4.2.1. Define the groups
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:175: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.175 ##
+        ### 4.2.1. Define the groups
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:175: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.175 ###
+         ## 4.2.1. Define the groups
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:175: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.175 ####
+          # 4.2.1. Define the groups
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:175: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.175 #####
+            4.2.1. Define the groups
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:180: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.180 malignant_
+                counts_groups = c(rep("August_m",4),rep("December_m",4))
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:182: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.182 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:183: You can't use `macro parameter charact
+er #' in vertical mode.
+l.183 #
+       #### 4.2.2. Create the DGEList object
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:183: You can't use `macro parameter charact
+er #' in vertical mode.
+l.183 ##
+        ### 4.2.2. Create the DGEList object
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:183: You can't use `macro parameter charact
+er #' in vertical mode.
+l.183 ###
+         ## 4.2.2. Create the DGEList object
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:183: You can't use `macro parameter charact
+er #' in vertical mode.
+l.183 ####
+          # 4.2.2. Create the DGEList object
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:183: You can't use `macro parameter charact
+er #' in vertical mode.
+l.183 #####
+            4.2.2. Create the DGEList object
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:188: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.188 malignant_
+                DGEList = malignant %>% DGEList(group=malignant_counts_groups)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:190: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.190 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:191: You can't use `macro parameter charact
+er #' in vertical mode.
+l.191 #
+       ### 4.3. Run edgeR analysis
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:191: You can't use `macro parameter charact
+er #' in vertical mode.
+l.191 ##
+        ## 4.3. Run edgeR analysis
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:191: You can't use `macro parameter charact
+er #' in vertical mode.
+l.191 ###
+         # 4.3. Run edgeR analysis
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:191: You can't use `macro parameter charact
+er #' in vertical mode.
+l.191 ####
+           4.3. Run edgeR analysis
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:196: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.196 malignant_
+                DGEList = malignant_DGEList %>%
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:202: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.202 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (165.50856pt too wide) in paragraph at lines 195--202
+\teni T\tenrm )\teni estimateTagwiseDisp\tenrm ()\`\teni Thenwecanusethe\tenrm 
+`\teni exactTest\tenrm ()`\teni functiontocomputethedifferencesinthemeansbetwee
+nthetwogroupsofthenegative \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni T
+.\kern1.3889
+.\tenrm )
+.\teni e
+.\teni s
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:205: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.205 malignant_
+                tgw = malignant_DGEList %>% exactTest()
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:208: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.208 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (54.21947pt too wide) in paragraph at lines 204--208
+[]\tenrm ```r malignant$[]\teni gw \tenrm = \teni malignant[]GEList\tenrm \`\te
+ni Thenweclassifythedifferentialexpression\tenrm (\teni counts\tenrm )\teni asu
+panddownornot \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (153.48373pt too wide) in paragraph at lines 204--208
+\teni significant\tenrm (1\teni ; \tensy ^^@\tenrm 1\teni ; \tenrm 0)\teni :The
+upanddownrepresentsinthiscase; thesignificantlyover \tensy ^^@ \teni expresseda
+ndunder \tensy ^^@ \teni expressedgeneforthegivenindividual:$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni s
+.\teni i
+.\teni g
+.\kern0.35878
+.\teni n
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:211: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.211 dt = decideTestsDGE(malignant_
+                                    tgw, p.value=0.01)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:214: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.214 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (412.31831pt too wide) in paragraph at lines 210--214
+[]\tenrm ```r dt = decideTestsDGE(malignant$[]\teni gw; p:value \tenrm = 0\teni
+ :\tenrm 01)\`\teni Wechoosehereacutoffpvalueof\tenrm 0\teni :\tenrm 01\teni ; 
+asdemonstratedbyDalmanin\tenrm 2012[5]\teni ; theinterpretationcouldbesignifica
+ntlyalteredbythechosenpvalue:$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:215: You can't use `macro parameter charact
+er #' in vertical mode.
+l.215 #
+       ### 4.4. Summarize the findings
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:215: You can't use `macro parameter charact
+er #' in vertical mode.
+l.215 ##
+        ## 4.4. Summarize the findings
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:215: You can't use `macro parameter charact
+er #' in vertical mode.
+l.215 ###
+         # 4.4. Summarize the findings
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:215: You can't use `macro parameter charact
+er #' in vertical mode.
+l.215 ####
+           4.4. Summarize the findings
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:224: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.224 #
+       #    [,1]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:224: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.224 ##
+            [,1]
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:225: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.225 #
+       # -1     5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:225: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.225 ##
+         -1     5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:226: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.226 #
+       # 0  22079
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:226: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.226 ##
+         0  22079
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:227: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.227 #
+       # 1      4
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:227: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.227 ##
+         1      4
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:231: Misplaced alignment tab character &.
+l.231 ...r' to adjust the pvalue using Benjamini &
+                                                   Hochberg (1995) ("BH" or ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:235: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.235 PValue_
+             fdr <- p.adjust(method="fdr",p=malignant_tgw$table$PValue)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:238: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.238 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (172.75146pt too wide) in paragraph at lines 234--238
+[]\tenrm ```r PValue$[]\teni dr < \tensy ^^@\teni p:adjust\tenrm (\teni method 
+\tenrm = "\teni fdr\tenrm "\teni ; p \tenrm = \teni malignant[]gw$\tenrm table$
+\teni PValue\tenrm )\`\teni Thenwewillcombinealltheusefulresultsintoasingledata
+frame$ |
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:242: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.242 results = data.frame(ind, malignant_
+                                          tgw$table,
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:243: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.243                      "twd"=malignant_
+                                           DGEList$tagwise.dispersion,
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:244: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.244                      "PValue_
+                                   fdr"=PValue_fdr,
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:249: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.249 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (59.54381pt too wide) in paragraph at lines 240--249
+\tenrm "twd"=malignant$[]\teni GEList$\tenrm tagwise.dispersion, "PValue$[]\ten
+i dr\tenrm " = \teni PValue[]dr; \tenrm "\teni Decide[]est\tenrm " = \teni dt; 
+malignant\tenrm )\teni head\tenrm (\teni results\tenrm )\`$ |
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\tenrm "
+.\tenrm t
+.\kern-0.27779
+.\tenrm w
+.\tenrm d
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:251: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.251 #
+       #     ind      logFC    logCPM    PValue       twd PValue_fdr Decide_...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:251: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.251 ##
+             ind      logFC    logCPM    PValue       twd PValue_fdr Decide_...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:251: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.251 ...gFC    logCPM    PValue       twd PValue_
+                                                  fdr Decide_test
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:252: You can't use `macro parameter charact
+er #' in math mode.
+l.252 #
+       # 1 ind-1  0.1636164 11.674605 0.8389469 0.5991941          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:252: You can't use `macro parameter charact
+er #' in math mode.
+l.252 ##
+         1 ind-1  0.1636164 11.674605 0.8389469 0.5991941          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:253: You can't use `macro parameter charact
+er #' in math mode.
+l.253 #
+       # 2 ind-2 -0.4143442  9.856255 0.6192570 0.6391602          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:253: You can't use `macro parameter charact
+er #' in math mode.
+l.253 ##
+         2 ind-2 -0.4143442  9.856255 0.6192570 0.6391602          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:254: You can't use `macro parameter charact
+er #' in math mode.
+l.254 #
+       # 3 ind-3  0.2583670  8.397585 0.7703755 0.7161338          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:254: You can't use `macro parameter charact
+er #' in math mode.
+l.254 ##
+         3 ind-3  0.2583670  8.397585 0.7703755 0.7161338          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:255: You can't use `macro parameter charact
+er #' in math mode.
+l.255 #
+       # 4 ind-4 -2.9001424  6.882069 0.0111043 1.0190455          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:255: You can't use `macro parameter charact
+er #' in math mode.
+l.255 ##
+         4 ind-4 -2.9001424  6.882069 0.0111043 1.0190455          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:256: You can't use `macro parameter charact
+er #' in math mode.
+l.256 #
+       # 5 ind-5  0.8064250  8.003913 0.3811649 0.7650609          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:256: You can't use `macro parameter charact
+er #' in math mode.
+l.256 ##
+         5 ind-5  0.8064250  8.003913 0.3811649 0.7650609          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:257: You can't use `macro parameter charact
+er #' in math mode.
+l.257 #
+       # 6 ind-6  0.7712607  8.530174 0.3826050 0.7077615          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:257: You can't use `macro parameter charact
+er #' in math mode.
+l.257 ##
+         6 ind-6  0.7712607  8.530174 0.3826050 0.7077615          1        ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:258: You can't use `macro parameter charact
+er #' in math mode.
+l.258 #
+       #   August_1m August_2m August_3m August_4m December_1m December_2m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:258: You can't use `macro parameter charact
+er #' in math mode.
+l.258 ##
+           August_1m August_2m August_3m August_4m December_1m December_2m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:259: You can't use `macro parameter charact
+er #' in math mode.
+l.259 #
+       # 1      8259      9281      7560      9134       12281       12099
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:259: You can't use `macro parameter charact
+er #' in math mode.
+l.259 ##
+         1      8259      9281      7560      9134       12281       12099
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:260: You can't use `macro parameter charact
+er #' in math mode.
+l.260 #
+       # 2      3523      2934      2065      3273        2747        2211
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:260: You can't use `macro parameter charact
+er #' in math mode.
+l.260 ##
+         2      3523      2934      2065      3273        2747        2211
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:261: You can't use `macro parameter charact
+er #' in math mode.
+l.261 #
+       # 3       757      1137       662       848        1332        1170
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:261: You can't use `macro parameter charact
+er #' in math mode.
+l.261 ##
+         3       757      1137       662       848        1332        1170
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:262: You can't use `macro parameter charact
+er #' in math mode.
+l.262 #
+       # 4       530       660       467       646          83         130
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:262: You can't use `macro parameter charact
+er #' in math mode.
+l.262 ##
+         4       530       660       467       646          83         130
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:263: You can't use `macro parameter charact
+er #' in math mode.
+l.263 #
+       # 5       454       550       428       646         832        1474
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:263: You can't use `macro parameter charact
+er #' in math mode.
+l.263 ##
+         5       454       550       428       646         832        1474
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:264: You can't use `macro parameter charact
+er #' in math mode.
+l.264 #
+       # 6       795       953       623       646        1498        1517
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:264: You can't use `macro parameter charact
+er #' in math mode.
+l.264 ##
+         6       795       953       623       646        1498        1517
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:265: You can't use `macro parameter charact
+er #' in math mode.
+l.265 #
+       #   December_3m December_4m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:265: You can't use `macro parameter charact
+er #' in math mode.
+l.265 ##
+           December_3m December_4m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:266: You can't use `macro parameter charact
+er #' in math mode.
+l.266 #
+       # 1       11091       12322
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:266: You can't use `macro parameter charact
+er #' in math mode.
+l.266 ##
+         1       11091       12322
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:267: You can't use `macro parameter charact
+er #' in math mode.
+l.267 #
+       # 2        2354        3647
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:267: You can't use `macro parameter charact
+er #' in math mode.
+l.267 ##
+         2        2354        3647
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:268: You can't use `macro parameter charact
+er #' in math mode.
+l.268 #
+       # 3        1433        1133
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:268: You can't use `macro parameter charact
+er #' in math mode.
+l.268 ##
+         3        1433        1133
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:269: You can't use `macro parameter charact
+er #' in math mode.
+l.269 #
+       # 4         102          70
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:269: You can't use `macro parameter charact
+er #' in math mode.
+l.269 ##
+         4         102          70
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:270: You can't use `macro parameter charact
+er #' in math mode.
+l.270 #
+       # 5        1160        1062
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:270: You can't use `macro parameter charact
+er #' in math mode.
+l.270 ##
+         5        1160        1062
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:271: You can't use `macro parameter charact
+er #' in math mode.
+l.271 #
+       # 6        1331        2089
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:271: You can't use `macro parameter charact
+er #' in math mode.
+l.271 ##
+         6        1331        2089
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:274: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.274 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (32.04951pt too wide) in paragraph at lines 250--274
+[]\tenrm ```  ind logFC logCPM PValue twd PValue$[]\teni drDecide[]est\tenrm 1\
+teni ind \tensy ^^@ \tenrm 10\teni :\tenrm 163616411\teni :\tenrm 6746050\teni 
+:\tenrm 83894690\teni :\tenrm 5991941102\teni ind \tensy ^^@|
+
+\hbox(6.94444+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (171.42609pt too wide) in paragraph at lines 250--274
+\tenrm 2 \tensy ^^@ \tenrm 0\teni :\tenrm 41434429\teni :\tenrm 8562550\teni :\
+tenrm 61925700\teni :\tenrm 6391602103\teni ind \tensy ^^@ \tenrm 30\teni :\ten
+rm 25836708\teni :\tenrm 3975850\teni :\tenrm 77037550\teni :\tenrm 7161338104\
+teni ind \tensy ^^@ \tenrm 4 \tensy ^^@ \tenrm 2\teni :\tenrm 90014246\teni :\t
+enrm 8820690\teni :\tenrm 01110431\teni :\tenrm 0190455105\teni ind \tensy ^^@|
+
+
+\hbox(6.94444+0.83333)x469.75499, glue set - 1.0
+.\tenrm 2
+.\glue(\medmuskip) 2.22217 plus 1.11108 minus 2.22217
+.\tensy ^^@
+.\penalty 700
+.\glue(\medmuskip) 2.22217 plus 1.11108 minus 2.22217
+.etc.
+
+
+Overfull \hbox (1599.74312pt too wide) in paragraph at lines 250--274
+\tenrm 50\teni :\tenrm 80642508\teni :\tenrm 0039130\teni :\tenrm 38116490\teni
+ :\tenrm 7650609106\teni ind \tensy ^^@ \tenrm 60\teni :\tenrm 77126078\teni :\
+tenrm 5301740\teni :\tenrm 38260500\teni :\tenrm 707761510\teni August[]mAugust
+[]mAugust[]mAugust[]mDecember[]mDecember[]m\tenrm 18259928175609134122811209923
+5232934206532732747221137571137662848133211704530660467646831305454550428646832
+1474679595362364614981517\teni December[]mDecember[]m\tenrm 1110911232222354364
+7314331133410270511601062613312089\`\teni Wecannowgenerateasmallsummarydatafram
+eforeaseofuseandsharing \tenrm :$ |
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm 5
+.\tenrm 0
+.\teni :
+.\tenrm 8
+.\tenrm 0
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:277: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.277 results_
+              summary = results %>% filter(PValue_fdr<=0.01)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:279: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.279 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:284: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.284 results_
+              summary
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:286: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.286 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:288: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.288 #
+       #        ind     logFC    logCPM       PValue      twd   PValue_fdr
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:288: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.288 ##
+                ind     logFC    logCPM       PValue      twd   PValue_fdr
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:288: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.288 ...   logCPM       PValue      twd   PValue_
+                                                  fdr
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:289: You can't use `macro parameter charact
+er #' in math mode.
+l.289 #
+       # 1 ind-5674  15.01415  9.374906 7.049871e-08 2.062358 3.114351e-04
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:289: You can't use `macro parameter charact
+er #' in math mode.
+l.289 ##
+         1 ind-5674  15.01415  9.374906 7.049871e-08 2.062358 3.114351e-04
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:290: You can't use `macro parameter charact
+er #' in math mode.
+l.290 #
+       # 2 ind-6077 -11.52415  5.898586 2.710095e-06 1.868935 6.651176e-03
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:290: You can't use `macro parameter charact
+er #' in math mode.
+l.290 ##
+         2 ind-6077 -11.52415  5.898586 2.710095e-06 1.868935 6.651176e-03
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:291: You can't use `macro parameter charact
+er #' in math mode.
+l.291 #
+       # 3 ind-6737  18.09089 12.450447 7.808231e-09 2.295355 5.748940e-05
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:291: You can't use `macro parameter charact
+er #' in math mode.
+l.291 ##
+         3 ind-6737  18.09089 12.450447 7.808231e-09 2.295355 5.748940e-05
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:292: You can't use `macro parameter charact
+er #' in math mode.
+l.292 #
+       # 4 ind-7220 -12.42235  6.789837 6.835227e-09 1.345429 5.748940e-05
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:292: You can't use `macro parameter charact
+er #' in math mode.
+l.292 ##
+         4 ind-7220 -12.42235  6.789837 6.835227e-09 1.345429 5.748940e-05
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:293: You can't use `macro parameter charact
+er #' in math mode.
+l.293 #
+       # 5 ind-7597  12.96249  7.327526 6.547473e-10 1.255202 1.446206e-05
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:293: You can't use `macro parameter charact
+er #' in math mode.
+l.293 ##
+         5 ind-7597  12.96249  7.327526 6.547473e-10 1.255202 1.446206e-05
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:294: You can't use `macro parameter charact
+er #' in math mode.
+l.294 #
+       # 6 ind-7599 -13.97611  8.338259 3.859529e-07 2.110132 1.420821e-03
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:294: You can't use `macro parameter charact
+er #' in math mode.
+l.294 ##
+         6 ind-7599 -13.97611  8.338259 3.859529e-07 2.110132 1.420821e-03
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:295: You can't use `macro parameter charact
+er #' in math mode.
+l.295 #
+       # 7 ind-7610 -11.73915  6.111499 9.744887e-07 1.758771 2.690563e-03
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:295: You can't use `macro parameter charact
+er #' in math mode.
+l.295 ##
+         7 ind-7610 -11.73915  6.111499 9.744887e-07 1.758771 2.690563e-03
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:296: You can't use `macro parameter charact
+er #' in math mode.
+l.296 #
+       # 8 ind-7654  11.72878  6.101371 8.193336e-07 1.731080 2.585349e-03
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:296: You can't use `macro parameter charact
+er #' in math mode.
+l.296 ##
+         8 ind-7654  11.72878  6.101371 8.193336e-07 1.731080 2.585349e-03
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:297: You can't use `macro parameter charact
+er #' in math mode.
+l.297 #
+       # 9 ind-7767 -12.77818  7.143859 1.293445e-08 1.463317 7.142402e-05
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:297: You can't use `macro parameter charact
+er #' in math mode.
+l.297 ##
+         9 ind-7767 -12.77818  7.143859 1.293445e-08 1.463317 7.142402e-05
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:298: You can't use `macro parameter charact
+er #' in math mode.
+l.298 #
+       #   Decide_test August_1m August_2m August_3m August_4m December_1m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:298: You can't use `macro parameter charact
+er #' in math mode.
+l.298 ##
+           Decide_test August_1m August_2m August_3m August_4m December_1m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:299: You can't use `macro parameter charact
+er #' in math mode.
+l.299 #
+       # 1           1         0         0         0         0        6744
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:299: You can't use `macro parameter charact
+er #' in math mode.
+l.299 ##
+         1           1         0         0         0         0        6744
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:300: You can't use `macro parameter charact
+er #' in math mode.
+l.300 #
+       # 2          -1       454       330       311       202           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:300: You can't use `macro parameter charact
+er #' in math mode.
+l.300 ##
+         2          -1       454       330       311       202           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:301: You can't use `macro parameter charact
+er #' in math mode.
+l.301 #
+       # 3           1         0         0         0         0       80518
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:301: You can't use `macro parameter charact
+er #' in math mode.
+l.301 ##
+         3           1         0         0         0         0       80518
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:302: You can't use `macro parameter charact
+er #' in math mode.
+l.302 #
+       # 4          -1       568       513       740       606           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:302: You can't use `macro parameter charact
+er #' in math mode.
+l.302 ##
+         4          -1       568       513       740       606           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:303: You can't use `macro parameter charact
+er #' in math mode.
+l.303 #
+       # 5           1         0         0         0         0        1956
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:303: You can't use `macro parameter charact
+er #' in math mode.
+l.303 ##
+         5           1         0         0         0         0        1956
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:304: You can't use `macro parameter charact
+er #' in math mode.
+l.304 #
+       # 6          -1      1136      2714         0      3556           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:304: You can't use `macro parameter charact
+er #' in math mode.
+l.304 ##
+         6          -1      1136      2714         0      3556           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:305: You can't use `macro parameter charact
+er #' in math mode.
+l.305 #
+       # 7          -1       530       476       194       323           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:305: You can't use `macro parameter charact
+er #' in math mode.
+l.305 ##
+         7          -1       530       476       194       323           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:306: You can't use `macro parameter charact
+er #' in math mode.
+l.306 #
+       # 8           1         0         0         0         0         541
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:306: You can't use `macro parameter charact
+er #' in math mode.
+l.306 ##
+         8           1         0         0         0         0         541
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:307: You can't use `macro parameter charact
+er #' in math mode.
+l.307 #
+       # 9          -1       227       550       233      2263           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:307: You can't use `macro parameter charact
+er #' in math mode.
+l.307 ##
+         9          -1       227       550       233      2263           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:308: You can't use `macro parameter charact
+er #' in math mode.
+l.308 #
+       #   December_2m December_3m December_4m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:308: You can't use `macro parameter charact
+er #' in math mode.
+l.308 ##
+           December_2m December_3m December_4m
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:309: You can't use `macro parameter charact
+er #' in math mode.
+l.309 #
+       # 1           0        6791        4567
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:309: You can't use `macro parameter charact
+er #' in math mode.
+l.309 ##
+         1           0        6791        4567
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:310: You can't use `macro parameter charact
+er #' in math mode.
+l.310 #
+       # 2           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:310: You can't use `macro parameter charact
+er #' in math mode.
+l.310 ##
+         2           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:311: You can't use `macro parameter charact
+er #' in math mode.
+l.311 #
+       # 3       40028           0       34310
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:311: You can't use `macro parameter charact
+er #' in math mode.
+l.311 ##
+         3       40028           0       34310
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:312: You can't use `macro parameter charact
+er #' in math mode.
+l.312 #
+       # 4           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:312: You can't use `macro parameter charact
+er #' in math mode.
+l.312 ##
+         4           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:313: You can't use `macro parameter charact
+er #' in math mode.
+l.313 #
+       # 5         477         648        1310
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:313: You can't use `macro parameter charact
+er #' in math mode.
+l.313 ##
+         5         477         648        1310
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:314: You can't use `macro parameter charact
+er #' in math mode.
+l.314 #
+       # 6           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:314: You can't use `macro parameter charact
+er #' in math mode.
+l.314 ##
+         6           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:315: You can't use `macro parameter charact
+er #' in math mode.
+l.315 #
+       # 7           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:315: You can't use `macro parameter charact
+er #' in math mode.
+l.315 ##
+         7           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:316: You can't use `macro parameter charact
+er #' in math mode.
+l.316 #
+       # 8         433         375         531
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:316: You can't use `macro parameter charact
+er #' in math mode.
+l.316 ##
+         8         433         375         531
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:317: You can't use `macro parameter charact
+er #' in math mode.
+l.317 #
+       # 9           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:317: You can't use `macro parameter charact
+er #' in math mode.
+l.317 ##
+         9           0           0           0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:319: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.319 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (14.94261pt too wide) in paragraph at lines 287--319
+[]\tenrm ```  ind logFC logCPM PValue twd PValue$[]\teni dr\tenrm 1\teni ind \t
+ensy ^^@ \tenrm 567415\teni :\tenrm 014159\teni :\tenrm 3749067\teni :\tenrm 04
+9871\teni e \tensy ^^@ \tenrm 082\teni :\tenrm 0623583\teni :\tenrm 114351\teni
+ e \tensy ^^@|
+
+\hbox(6.94444+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (7.4087pt too wide) in paragraph at lines 287--319
+\tenrm 042\teni ind \tensy ^^@ \tenrm 6077 \tensy ^^@ \tenrm 11\teni :\tenrm 52
+4155\teni :\tenrm 8985862\teni :\tenrm 710095\teni e \tensy ^^@ \tenrm 061\teni
+ :\tenrm 8689356\teni :\tenrm 651176\teni e \tensy ^^@ \tenrm 033\teni ind \ten
+sy ^^@ \tenrm 673718\teni :\tenrm 0908912\teni :\tenrm 4504477\teni :\tenrm 808
+231\teni e \tensy ^^@|
+
+\hbox(6.94444+0.83333)x469.75499, glue set - 1.0
+.\tenrm 0
+.\tenrm 4
+.\tenrm 2
+.\teni i
+.\teni n
+.etc.
+
+
+Overfull \hbox (100.39857pt too wide) in paragraph at lines 287--319
+\tenrm 092\teni :\tenrm 2953555\teni :\tenrm 748940\teni e \tensy ^^@ \tenrm 05
+4\teni ind \tensy ^^@ \tenrm 7220 \tensy ^^@ \tenrm 12\teni :\tenrm 422356\teni
+ :\tenrm 7898376\teni :\tenrm 835227\teni e \tensy ^^@ \tenrm 091\teni :\tenrm 
+3454295\teni :\tenrm 748940\teni e \tensy ^^@ \tenrm 055\teni ind \tensy ^^@ \t
+enrm 759712\teni :\tenrm 962497\teni :\tenrm 3275266\teni :\tenrm 547473\teni e
+ \tensy ^^@|
+
+\hbox(6.94444+0.83333)x469.75499, glue set - 1.0
+.\tenrm 0
+.\tenrm 9
+.\tenrm 2
+.\teni :
+.\tenrm 2
+.etc.
+
+
+Overfull \hbox (35.19052pt too wide) in paragraph at lines 287--319
+\tenrm 11\teni :\tenrm 739156\teni :\tenrm 1114999\teni :\tenrm 744887\teni e \
+tensy ^^@ \tenrm 071\teni :\tenrm 7587712\teni :\tenrm 690563\teni e \tensy ^^@
+ \tenrm 038\teni ind \tensy ^^@ \tenrm 765411\teni :\tenrm 728786\teni :\tenrm 
+1013718\teni :\tenrm 193336\teni e \tensy ^^@ \tenrm 071\teni :\tenrm 7310802\t
+eni :\tenrm 585349\teni e \tensy ^^@|
+
+\hbox(6.94444+0.83333)x469.75499, glue set - 1.0
+.\tenrm 1
+.\tenrm 1
+.\teni :
+.\tenrm 7
+.\tenrm 3
+.etc.
+
+
+Overfull \hbox (179.58446pt too wide) in paragraph at lines 287--319
+\tenrm 039\teni ind \tensy ^^@ \tenrm 7767 \tensy ^^@ \tenrm 12\teni :\tenrm 77
+8187\teni :\tenrm 1438591\teni :\tenrm 293445\teni e \tensy ^^@ \tenrm 081\teni
+ :\tenrm 4633177\teni :\tenrm 142402\teni e \tensy ^^@ \tenrm 05\teni Decide[]e
+stAugust[]mAugust[]mAugust[]mAugust[]mDecember[]m\tenrm 11000067442 \tensy ^^@|
+
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm 0
+.\tenrm 3
+.\tenrm 9
+.\teni i
+.\teni n
+.etc.
+
+
+Overfull \hbox (16.3576pt too wide) in paragraph at lines 287--319
+\tenrm 14543303112020310000805184 \tensy ^^@ \tenrm 1568513740606051000019566 \
+tensy ^^@ \tenrm 1113627140355607 \tensy ^^@ \tenrm 153047619432308100005419 \t
+ensy ^^@|
+
+\hbox(6.44444+0.83333)x469.75499, glue set - 1.0
+.\tenrm 1
+.\tenrm 4
+.\tenrm 5
+.\tenrm 4
+.\tenrm 3
+.etc.
+
+
+Overfull \hbox (101.13283pt too wide) in paragraph at lines 287--319
+\tenrm 122755023322630\teni December[]mDecember[]mDecember[]m\tenrm 10679145672
+0003400280343104000547764813106000700084333755319000\`$ |
+
+\hbox(6.94444+1.49998)x469.75499
+.\tenrm 1
+.\tenrm 2
+.\tenrm 2
+.\tenrm 7
+.\tenrm 5
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:320: You can't use `macro parameter charact
+er #' in vertical mode.
+l.320 #
+       ### Note: Comparable results could be found using a beta-binomial tes...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:320: You can't use `macro parameter charact
+er #' in vertical mode.
+l.320 ##
+        ## Note: Comparable results could be found using a beta-binomial tes...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:320: You can't use `macro parameter charact
+er #' in vertical mode.
+l.320 ###
+         # Note: Comparable results could be found using a beta-binomial tes...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:320: You can't use `macro parameter charact
+er #' in vertical mode.
+l.320 ####
+           Note: Comparable results could be found using a beta-binomial tes...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:323: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.323 #
+       ### Write outputs to the disk and print session information:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:323: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.323 ##
+        ## Write outputs to the disk and print session information:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:323: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.323 ###
+         # Write outputs to the disk and print session information:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:323: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.323 ####
+           Write outputs to the disk and print session information:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+[2]
+/Users/ys/bin/mpg_ex/mpg/Report.txt:328: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.328 write.table(results_
+                          summary, file="results_summary.tsv", quote=F)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:331: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.331 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (69.32198pt too wide) in paragraph at lines 326--331
+[]\tenrm ```r write.table(results, file="results.tsv", quote=F) write.table(res
+ults$[]\teni ummary; file \tenrm = "\teni results[]ummary:tsv\tenrm "\teni ; qu
+ote \tenrm =|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:333: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.333 #
+       # R version 3.2.2 (2015-08-14)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:333: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.333 ##
+         R version 3.2.2 (2015-08-14)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:334: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.334 #
+       # Platform: x86_64-apple-darwin13.4.0 (64-bit)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:334: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.334 ##
+         Platform: x86_64-apple-darwin13.4.0 (64-bit)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:334: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.334 ## Platform: x86_
+                       64-apple-darwin13.4.0 (64-bit)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:335: You can't use `macro parameter charact
+er #' in math mode.
+l.335 #
+       # Running under: OS X 10.11 (El Capitan)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:335: You can't use `macro parameter charact
+er #' in math mode.
+l.335 ##
+         Running under: OS X 10.11 (El Capitan)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:336: You can't use `macro parameter charact
+er #' in math mode.
+l.336 #
+       #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:336: You can't use `macro parameter charact
+er #' in math mode.
+l.336 ##
+        
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:337: You can't use `macro parameter charact
+er #' in math mode.
+l.337 #
+       # locale:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:337: You can't use `macro parameter charact
+er #' in math mode.
+l.337 ##
+         locale:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:338: You can't use `macro parameter charact
+er #' in math mode.
+l.338 #
+       # [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:338: You can't use `macro parameter charact
+er #' in math mode.
+l.338 ##
+         [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:339: You can't use `macro parameter charact
+er #' in math mode.
+l.339 #
+       #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:339: You can't use `macro parameter charact
+er #' in math mode.
+l.339 ##
+        
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:340: You can't use `macro parameter charact
+er #' in math mode.
+l.340 #
+       # attached base packages:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:340: You can't use `macro parameter charact
+er #' in math mode.
+l.340 ##
+         attached base packages:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:341: You can't use `macro parameter charact
+er #' in math mode.
+l.341 #
+       # [1] parallel  stats     graphics  grDevices utils     datasets  met...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:341: You can't use `macro parameter charact
+er #' in math mode.
+l.341 ##
+         [1] parallel  stats     graphics  grDevices utils     datasets  met...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:342: You can't use `macro parameter charact
+er #' in math mode.
+l.342 #
+       # [8] base
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:342: You can't use `macro parameter charact
+er #' in math mode.
+l.342 ##
+         [8] base
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:343: You can't use `macro parameter charact
+er #' in math mode.
+l.343 #
+       #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:343: You can't use `macro parameter charact
+er #' in math mode.
+l.343 ##
+        
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:344: You can't use `macro parameter charact
+er #' in math mode.
+l.344 #
+       # other attached packages:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:344: You can't use `macro parameter charact
+er #' in math mode.
+l.344 ##
+         other attached packages:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:345: You can't use `macro parameter charact
+er #' in math mode.
+l.345 #
+       #  [1] knitr_1.11           ggplot2_1.0.1        reshape2_1.4.1
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:345: You can't use `macro parameter charact
+er #' in math mode.
+l.345 ##
+          [1] knitr_1.11           ggplot2_1.0.1        reshape2_1.4.1
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:346: You can't use `macro parameter charact
+er #' in math mode.
+l.346 #
+       #  [4] edgeR_3.12.0         limma_3.26.3         DESeq_1.22.0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:346: You can't use `macro parameter charact
+er #' in math mode.
+l.346 ##
+          [4] edgeR_3.12.0         limma_3.26.3         DESeq_1.22.0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:347: You can't use `macro parameter charact
+er #' in math mode.
+l.347 #
+       #  [7] lattice_0.20-33      locfit_1.5-9.1       Biobase_2.30.0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:347: You can't use `macro parameter charact
+er #' in math mode.
+l.347 ##
+          [7] lattice_0.20-33      locfit_1.5-9.1       Biobase_2.30.0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:348: You can't use `macro parameter charact
+er #' in math mode.
+l.348 #
+       # [10] BiocGenerics_0.16.1  ggvis_0.4.2          dplyr_0.4.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:348: You can't use `macro parameter charact
+er #' in math mode.
+l.348 ##
+         [10] BiocGenerics_0.16.1  ggvis_0.4.2          dplyr_0.4.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:349: You can't use `macro parameter charact
+er #' in math mode.
+l.349 #
+       # [13] BiocInstaller_1.20.1
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:349: You can't use `macro parameter charact
+er #' in math mode.
+l.349 ##
+         [13] BiocInstaller_1.20.1
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:350: You can't use `macro parameter charact
+er #' in math mode.
+l.350 #
+       #
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:350: You can't use `macro parameter charact
+er #' in math mode.
+l.350 ##
+        
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:351: You can't use `macro parameter charact
+er #' in math mode.
+l.351 #
+       # loaded via a namespace (and not attached):
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:351: You can't use `macro parameter charact
+er #' in math mode.
+l.351 ##
+         loaded via a namespace (and not attached):
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:352: You can't use `macro parameter charact
+er #' in math mode.
+l.352 #
+       #  [1] Rcpp_0.12.0          highr_0.5            formatR_1.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:352: You can't use `macro parameter charact
+er #' in math mode.
+l.352 ##
+          [1] Rcpp_0.12.0          highr_0.5            formatR_1.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:353: You can't use `macro parameter charact
+er #' in math mode.
+l.353 #
+       #  [4] RColorBrewer_1.1-2   plyr_1.8.3           tools_3.2.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:353: You can't use `macro parameter charact
+er #' in math mode.
+l.353 ##
+          [4] RColorBrewer_1.1-2   plyr_1.8.3           tools_3.2.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:354: You can't use `macro parameter charact
+er #' in math mode.
+l.354 #
+       #  [7] digest_0.6.8         evaluate_0.7.2       gtable_0.1.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:354: You can't use `macro parameter charact
+er #' in math mode.
+l.354 ##
+          [7] digest_0.6.8         evaluate_0.7.2       gtable_0.1.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:355: You can't use `macro parameter charact
+er #' in math mode.
+l.355 #
+       # [10] annotate_1.48.0      RSQLite_1.0.0        shiny_0.12.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:355: You can't use `macro parameter charact
+er #' in math mode.
+l.355 ##
+         [10] annotate_1.48.0      RSQLite_1.0.0        shiny_0.12.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:356: You can't use `macro parameter charact
+er #' in math mode.
+l.356 #
+       # [13] DBI_0.3.1            yaml_2.1.13          proto_0.3-10
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:356: You can't use `macro parameter charact
+er #' in math mode.
+l.356 ##
+         [13] DBI_0.3.1            yaml_2.1.13          proto_0.3-10
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:357: You can't use `macro parameter charact
+er #' in math mode.
+l.357 #
+       # [16] genefilter_1.52.0    stringr_1.0.0        S4Vectors_0.8.5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:357: You can't use `macro parameter charact
+er #' in math mode.
+l.357 ##
+         [16] genefilter_1.52.0    stringr_1.0.0        S4Vectors_0.8.5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:358: You can't use `macro parameter charact
+er #' in math mode.
+l.358 #
+       # [19] IRanges_2.4.6        stats4_3.2.2         grid_3.2.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:358: You can't use `macro parameter charact
+er #' in math mode.
+l.358 ##
+         [19] IRanges_2.4.6        stats4_3.2.2         grid_3.2.2
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:359: You can't use `macro parameter charact
+er #' in math mode.
+l.359 #
+       # [22] R6_2.1.1             AnnotationDbi_1.32.2 XML_3.98-1.3
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:359: You can't use `macro parameter charact
+er #' in math mode.
+l.359 ##
+         [22] R6_2.1.1             AnnotationDbi_1.32.2 XML_3.98-1.3
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:360: You can't use `macro parameter charact
+er #' in math mode.
+l.360 #
+       # [25] survival_2.38-3      rmarkdown_0.7        geneplotter_1.48.0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:360: You can't use `macro parameter charact
+er #' in math mode.
+l.360 ##
+         [25] survival_2.38-3      rmarkdown_0.7        geneplotter_1.48.0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:361: You can't use `macro parameter charact
+er #' in math mode.
+l.361 #
+       # [28] magrittr_1.5         MASS_7.3-43          scales_0.3.0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:361: You can't use `macro parameter charact
+er #' in math mode.
+l.361 ##
+         [28] magrittr_1.5         MASS_7.3-43          scales_0.3.0
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:362: You can't use `macro parameter charact
+er #' in math mode.
+l.362 #
+       # [31] htmltools_0.2.6      splines_3.2.2        rsconnect_0.4.1.4
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:362: You can't use `macro parameter charact
+er #' in math mode.
+l.362 ##
+         [31] htmltools_0.2.6      splines_3.2.2        rsconnect_0.4.1.4
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:363: You can't use `macro parameter charact
+er #' in math mode.
+l.363 #
+       # [34] assertthat_0.1       colorspace_1.2-6     mime_0.3
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:363: You can't use `macro parameter charact
+er #' in math mode.
+l.363 ##
+         [34] assertthat_0.1       colorspace_1.2-6     mime_0.3
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:364: You can't use `macro parameter charact
+er #' in math mode.
+l.364 #
+       # [37] xtable_1.7-4         httpuv_1.3.3         stringi_0.5-5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:364: You can't use `macro parameter charact
+er #' in math mode.
+l.364 ##
+         [37] xtable_1.7-4         httpuv_1.3.3         stringi_0.5-5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:365: You can't use `macro parameter charact
+er #' in math mode.
+l.365 #
+       # [40] munsell_0.4.2        lazyeval_0.1.10      markdown_0.7.7
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:365: You can't use `macro parameter charact
+er #' in math mode.
+l.365 ##
+         [40] munsell_0.4.2        lazyeval_0.1.10      markdown_0.7.7
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:367: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.367 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (14.27513pt too wide) in paragraph at lines 332--367
+\teni OSX\tenrm 10\teni :\tenrm 11(\teni ElCapitan\tenrm )\teni locale \tenrm :
+ [1]\teni en[]S:UTF \tensy ^^@ \tenrm 8\teni =en[]S:UTF \tensy ^^@ \tenrm 8\ten
+i =en[]S:UTF \tensy ^^@ \tenrm 8\teni =C=en[]S:UTF \tensy ^^@ \tenrm 8\teni =en
+[]S:UTF \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni O
+.\kern0.27779
+.\teni S
+.\kern0.57637
+.\teni X
+.etc.
+
+
+Overfull \hbox (22.70042pt too wide) in paragraph at lines 332--367
+\tenrm 8\teni attachedbasepackages \tenrm : [1]\teni parallelstatsgraphicsgrDev
+icesutilsdatasetsmethods\tenrm [8]\teni baseotherattachedpackages \tenrm :|
+
+\hbox(7.5+2.5)x469.75499
+.\tenrm 8
+.\teni a
+.\teni t
+.\teni t
+.\teni a
+.etc.
+
+
+Overfull \hbox (528.57777pt too wide) in paragraph at lines 332--367
+\tenrm [1]\teni knitr[]:\tenrm 11\teni ggplot\tenrm 2[]\teni :\tenrm 0\teni :\t
+enrm 1\teni reshape\tenrm 2[]\teni :\tenrm 4\teni :\tenrm 1[4]\teni edgeR[]:\te
+nrm 12\teni :\tenrm 0\teni limma[]:\tenrm 26\teni :\tenrm 3\teni DESeq[]:\tenrm
+ 22\teni :\tenrm 0[7]\teni lattice[]:\tenrm 20 \tensy ^^@ \tenrm 33\teni locfit
+[]:\tenrm 5 \tensy ^^@ \tenrm 9\teni :\tenrm 1\teni Biobase[]:\tenrm 30\teni :\
+tenrm 0[10]\teni BiocGenerics[]:\tenrm 16\teni :\tenrm 1\teni ggvis[]:\tenrm 4\
+teni :\tenrm 2\teni dplyr[]:\tenrm 4\teni :\tenrm 2[13]\teni BiocInstaller[]:\t
+enrm 20\teni :\tenrm 1\teni loadedviaanamespace\tenrm (\teni andnotattached\ten
+rm ) :|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm [
+.\tenrm 1
+.\tenrm ]
+.\teni k
+.\kern0.3148
+.etc.
+
+
+Overfull \hbox (358.99986pt too wide) in paragraph at lines 332--367
+\tenrm [1]\teni Rcpp[]:\tenrm 12\teni :\tenrm 0\teni highr[]:\tenrm 5\teni form
+atR[]:\tenrm 2[4]\teni RColorBrewer[]:\tenrm 1 \tensy ^^@ \tenrm 2\teni plyr[]:
+\tenrm 8\teni :\tenrm 3\teni tools[]:\tenrm 2\teni :\tenrm 2[7]\teni digest[]:\
+tenrm 6\teni :\tenrm 8\teni evaluate[]:\tenrm 7\teni :\tenrm 2\teni gtable[]:\t
+enrm 1\teni :\tenrm 2[10]\teni annotate[]:\tenrm 48\teni :\tenrm 0\teni RSQLite
+[]:\tenrm 0\teni :\tenrm 0\teni shiny[]:\tenrm 12\teni :\tenrm 2[13]\teni DBI[]
+:\tenrm 3\teni :\tenrm 1\teni yaml[]:\tenrm 1\teni :\tenrm 13\teni proto[]:\ten
+rm 3 \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm [
+.\tenrm 1
+.\tenrm ]
+.\teni R
+.\kern0.07726
+.etc.
+
+
+Overfull \hbox (97.81363pt too wide) in paragraph at lines 332--367
+\tenrm 10[16]\teni genefilter[]:\tenrm 52\teni :\tenrm 0\teni stringr[]:\tenrm 
+0\teni :\tenrm 0\teni S\tenrm 4\teni Vectors[]:\tenrm 8\teni :\tenrm 5[19]\teni
+ IRanges[]:\tenrm 4\teni :\tenrm 6\teni stats\tenrm 4[]\teni :\tenrm 2\teni :\t
+enrm 2\teni grid[]:\tenrm 2\teni :\tenrm 2[22]\teni R\tenrm 6[]\teni :\tenrm 1\
+teni :\tenrm 1\teni AnnotationDbi[]:\tenrm 32\teni :\tenrm 2\teni XML[]:\tenrm 
+98 \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 1
+.\tenrm 0
+.\tenrm [
+.\tenrm 1
+.\tenrm 6
+.etc.
+
+
+Overfull \hbox (281.5545pt too wide) in paragraph at lines 332--367
+\tenrm 1\teni :\tenrm 3[25]\teni survival[]:\tenrm 38 \tensy ^^@ \tenrm 3\teni 
+rmarkdown[]:\tenrm 7\teni geneplotter[]:\tenrm 48\teni :\tenrm 0[28]\teni magri
+ttr[]:\tenrm 5\teni MASS[]:\tenrm 3 \tensy ^^@ \tenrm 43\teni scales[]:\tenrm 3
+\teni :\tenrm 0[31]\teni htmltools[]:\tenrm 2\teni :\tenrm 6\teni splines[]:\te
+nrm 2\teni :\tenrm 2\teni rsconnect[]:\tenrm 4\teni :\tenrm 1\teni :\tenrm 4[34
+]\teni assertthat[]:\tenrm 1\teni colorspace[]:\tenrm 2 \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 1
+.\teni :
+.\tenrm 3
+.\tenrm [
+.\tenrm 2
+.etc.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:369: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.369 #
+       ## References:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:369: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.369 ##
+        # References:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/ys/bin/mpg_ex/mpg/Report.txt:369: You can't use `macro parameter charact
+er #' in horizontal mode.
+l.369 ###
+          References:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+)
+! Emergency stop.
+<*> ... \input /Users/ys/bin/mpg_ex/mpg/Report.txt
+                                                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!

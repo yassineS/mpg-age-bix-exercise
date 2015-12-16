@@ -20,13 +20,13 @@ args = commandArgs(TRUE)
 # Make sure that the user provided an argument
 if (length(args) == 0) { 
   print("No input argument was provided!")
-  print("./scd.R [input data]")
+  print("./scd.R [input data relative path]")
+  print("if the path to the data is local dir use: ./data.tsv")
 } 
 
 # Read the provided data-path
 input=toString(args[1])
-# debug: 
-input   = '~/bin/mpg_ex/mpg/raw_data.tsv'
+# debug: input   = '~/bin/mpg_ex/mpg/raw_data.tsv'
 
 
 # Change the working-directory to the specified path
@@ -44,9 +44,9 @@ setwd(wd)
 # DESeq: for building the object that holds the dataset \
 # to be analysed by edgeR and the subsequent calculations \
 # performed on the dataset
-install.packages("dplyr")
-source("https://bioconductor.org/biocLite.R") # make sure bioconductor is available
-biocLite() # install core packages
+#install.packages("dplyr")
+#source("https://bioconductor.org/biocLite.R") # make sure bioconductor is available
+#biocLite() # install core packages
 biocLite("DESeq", "edgeR") # install libraries
 library("DESeq", "edgeR", "dplyr") # load libraries
 
@@ -72,7 +72,7 @@ rm(raw_data, args, counts, x)
 # Data exploration  #
 #####################
 # Visualize graphically the data
-png("data_viz_before.png", width = 2400, height = 500, units = "px")
+png("data.png")
 malignant %>% boxplot(~August_1m) # this is a bug that we can take advantage of
 dev.off()
 
@@ -83,11 +83,6 @@ dev.off()
 # negative values. missing values (NAs) are replaced with '0's \
 # (incompatible with DGEList and edgeR)
 malignant[is.na(malignant)] = 0
-
-# Visualize graphically the data to make sure the cleaning worked
-png("data_viz_after.png", width = 2400, height = 500, units = "px")
-malignant %>% boxplot(~August_1m) # this is a bug that we can take advantage of
-dev.off()
 
 ####################
 #     Analysis     #
@@ -135,11 +130,3 @@ results_summary = results %>% filter(PValue_fdr<=0.01)
 write.table(results, file="results.tsv", quote=F)
 write.table(results_summary, file="results_summary.tsv", quote=F)
 sessionInfo()
-
-
-
-
-
-library(ggplot2)
-malignant %>%
-  ggplot(aes(x = value)) + facet_wrap(~variable, scales="free_x") + geom_histogram()
